@@ -17,15 +17,8 @@ main{
   font-family: 'Poppins', sans-serif;
 }
 
-.header-buttons{
-  display: flex;
-  
-}
 
-button{
-  display:flex;
-  
-}
+
 
 section{
   display: flex;
